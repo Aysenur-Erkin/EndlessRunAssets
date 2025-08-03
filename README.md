@@ -1,6 +1,6 @@
 # EndlessRunAssets 🚀
 
-A plug-and-play **Unity asset pack** for quickly prototyping an endless-runner game.  
+A plug-and-play Unity asset pack for quickly prototyping an endless-runner game.  
 ---
 
 ## Directory Overview
